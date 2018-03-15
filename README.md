@@ -1,5 +1,5 @@
-# RHOAR Vertex Health Check
-Vertex Health Check Microservice - RHOAR course
+# RHOAR Vert.x Health Check
+Vert.x Health Check Microservice - RHOAR course
 
 ## Compile Application
 ```
